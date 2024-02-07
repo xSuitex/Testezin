@@ -1,0 +1,58 @@
+.Topo{
+    background: black;
+    margin: auto;
+    width: auto;
+    height: 100px;
+    opacity: 200%;
+}
+.Topo h1{
+    color: white;
+    text-align: center; 
+}
+
+.back{
+    background: url(img/pic2.png);
+    height: 700px;
+    margin-top: -25px;
+}
+
+
+
+
+.back>.box{
+    background-color: rgb(41, 41, 41) ;
+    margin-left: 500px;    
+    width: 300px;
+    height: 450px; 
+    border-radius: 40px; 
+    box-shadow: 0 0 50px rgb(192, 192, 192);
+    
+    
+}
+.back>.box h1{
+  color: whitesmoke;
+  text-align: center;
+}
+.back>.box p{
+    color: white;
+    font-size: 20px;
+    margin-left: 60px;
+
+}
+#camp{
+    background-color: black;
+    color: white;
+    border-color: white;
+    margin-left: 60px;
+    border-radius: 30px;
+    height: 20px;
+}
+#but{
+    background-color: rgb(55, 50, 63);
+    border-color: white;
+    color: rgb(255, 255, 255);
+    margin-left: 100px;
+    width: 90px;
+    height: 30px;
+    border-radius: 30px;
+}
